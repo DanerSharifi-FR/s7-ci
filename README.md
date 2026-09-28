@@ -1,6 +1,6 @@
-# Java Maven Project
+# CI Setup Practice — Java and Maven
 
-A simple Java project built with Maven as part of Semester 7 of our engineering programme at **IMT Atlantique**.
+This repository is a continuous integration (CI) setup exercise for Semester 7 at **IMT Atlantique**. A small Java application provides a way to practise automated builds, test validation, and protecting `main` through pull requests.
 
 Course reference: [Stéphane Bouchet - emn-fil](https://github.com/sbouchet/emn-fil/tree/master).
 
