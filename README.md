@@ -1,4 +1,4 @@
-# CI Setup Practice — Java and Maven
+# CI Setup Practice : Java and Maven
 
 This repository is a continuous integration (CI) setup exercise for Semester 7 at **IMT Atlantique**. A small Java application provides a way to practise automated builds, test validation, and protecting `main` through pull requests.
 
