@@ -35,4 +35,8 @@ public class AppTest
     {
         assertTrue( true );
     }
+
+    public void testCiDetectsFailure() {
+        fail("Intentional failure to test CI");
+    }
 }
